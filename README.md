@@ -1,4 +1,4 @@
-# Self-Delevpment
+# Self-Development
 # Hunger Captain
 ```
 Hunger Captain , with a frontend built in React & Redux and a backend built in Django API.
