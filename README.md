@@ -4,7 +4,7 @@
 Hunger Captain , with a frontend built in React & Redux and a backend built in Django API.
 ```
 Check out [FRONTEND LIVE DEMO](https://hunger-cap-frontend.herokuapp.com/) here!!
-Check out [API LIVE DEMO] here!!
+Check out [API LIVE DEMO](https://hunger-cap-backend.herokuapp.com/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
