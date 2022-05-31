@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="40" viewBox="0 0 126 40">
+  <g id="Group_1430" data-name="Group 1430" transform="translate(-6935 -10031)">
+    <g id="Group_1429" data-name="Group 1429">
+      <g id="Group_1428" data-name="Group 1428">
+        <rect id="Rectangle_429" data-name="Rectangle 429" width="126" height="40" rx="15" transform="translate(6935 10031)" fill="#ebebeb"/>
+        <path id="Rectangle_430" data-name="Rectangle 430" d="M15,0H32a7,7,0,0,1,7,7V33a7,7,0,0,1-7,7H15A15,15,0,0,1,0,25V15A15,15,0,0,1,15,0Z" transform="translate(6935 10031)" fill="#c9c9c9"/>
+        <path id="Rectangle_431" data-name="Rectangle 431" d="M7,0H24A15,15,0,0,1,39,15V25A15,15,0,0,1,24,40H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(7022 10031)" fill="#c9c9c9"/>
+      </g>
+      <text id="_" data-name="+" transform="translate(6950 10057)" fill="#fff" font-size="18" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+      <text id="_-" data-name="-" transform="translate(7039 10057)" fill="#fff" font-size="18" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">-</tspan></text>
+    </g>
+    <text id="_1" data-name="1" transform="translate(6995 10057)" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>
